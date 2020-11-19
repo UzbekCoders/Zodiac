@@ -7,6 +7,8 @@ public class zodiac{
         season(console);
 
     }
+	
+	//Azizbek was here in 21:30
 
     public static void intro() {
         System.out.println("This program will let you know your");
